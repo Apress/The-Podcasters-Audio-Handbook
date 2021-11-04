@@ -3,7 +3,7 @@
 This repository accompanies [*The Podcaster's Audio Handbook: Audio Engineering Tip and Tricks*](https://www.apress.com/9781484273609) by Corey Marie Green (Apress, 2021).
 
 [comment]: #cover
-![Cover image](9781484273609.jpg)
+![Cover image](9781484273609.JPG)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
